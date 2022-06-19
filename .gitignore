@@ -408,6 +408,7 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 .idea/
+.DS_Store
 # Local History for Visual Studio Code
 .history/
 
